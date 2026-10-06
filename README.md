@@ -2,6 +2,8 @@
 
 **REVKIT** is an automated, lightweight reverse engineering toolkit designed for Windows PE binaries (`.exe` and `.dll`). It identifies the source programming language, runs specialized extraction and disassembly pipelines, and compiles structured findings into a consolidated `REPORT.md`.
 
+![REVKIT Terminal Preview](assets/preview.png)
+
 ---
 
 ## Key Features
