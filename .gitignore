@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Analysis and extraction output folders
+*_reversed/
+*_extracted/
+pyextracted/
+pyc/
+pysource/
+disasm/
+dotnet_decompiled/
+
+# Binary files / Executables
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.pdb
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables & secrets
+.env
+.env.*
+*.key
+*.pem
+*.token
+
+# Logs and runtime dumps
+*.log
+*.dump
+REPORT.md
